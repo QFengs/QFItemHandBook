@@ -1,0 +1,13 @@
+name: QFItemHandBook
+version: v1.0.3
+main: github.qfeng.qfitemhandbook.QFItemHandBook
+author: 'qingfeng'
+commands:
+  itemhanbook:
+    description: "物品图鉴"
+    aliases: [ihb,qihb]
+    usage: /<command> help
+softdepend:
+  - 'NeigeItems'
+  - 'SX-Attribute'
+  - 'MythicMobs'

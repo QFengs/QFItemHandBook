@@ -1,0 +1,9 @@
+t1:
+  title: "标题" #用于目录检测，也别重复
+  Items:
+    id:  #物品库ID，不重复
+      lore:
+      - "lore"
+      - "lore"
+      command: #后台指令
+      - "money give %p% 1"

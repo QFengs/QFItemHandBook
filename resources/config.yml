@@ -1,0 +1,13 @@
+#author: qingfeng
+#QQ:2130203696
+##图鉴
+ItemPacks:
+  - NI
+  - MM
+  - SX  #可选三个
+Items:
+  DangBan:  #这个名字也不要改！
+    material: STAINED_GLASS_PANE   #材质，不用说
+    name: "§d§l图鉴"
+    lore:           #lore，不用说
+      - "§d这个是玻璃挡板"
